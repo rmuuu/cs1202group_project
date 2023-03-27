@@ -15,7 +15,7 @@ This project will need the user's information on:
 
 After obtaining such information, the program will display the total carbon footprint of the user. Then, it will determine if the computed carbon footprint is ideal otherwise, if the calculated amount is relatively high suggestions of ways to reduce carbon footprint will be displayed.
 
-## Objectives
+## :mag_right: Objectives
 
 ### Members:
 - Aguilar, Rose Ann
