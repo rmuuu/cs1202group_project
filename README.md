@@ -16,7 +16,7 @@ After obtaining such information, the program will display the total carbon foot
 
 ## Objectives
 
-Members:
+### Members:
 - Agular, Rose Ann
 - Arenas, Aldrich Amiel
 - Montoya, Ram Greggor
