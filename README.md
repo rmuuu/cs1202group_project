@@ -9,7 +9,7 @@ This project will need the user's information on:
 + monthly electric consumption bill :fuelpump:
 + monthly gas bill :fuelpump:
 + yearly mileage on car :oncoming_automobile:
-+ number of flights the user had taken in the past year (4 hours or less, 4 hours or more) :airplane:
++ number of flights the user had taken in the past year (4 hours or less, 4 hours or more):airplane:
 + if the user recycles newspaper :newspaper:
 + if the user recycles aluminum and tin
 
