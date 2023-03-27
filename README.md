@@ -3,7 +3,7 @@
 # Topic: Carbon Counter: Title
     
 ## Description
-CO2 Intel(?) aims to calculate the user’s carbon footprint. It is technically the amount of greenhouse gases produced by a certain user, expressed in units of carbon dioxide. Daily life activities such as foods we consume, electrical use, travel (by car, plane, jeep, and more), consumption of other products and services are some of the factors that help in determining the amount of carbon footprint.
+CO2 Intel(?) aims to calculate the user’s carbon footprint. It is technically the amount of greenhouse gases produced by a certain user, expressed in units of carbon dioxide. Daily life activities such as foods we consume, electrical use, travel (by car, plane, jeep, and more), consumption of other products and services are some of the factors that help in determining the amount of carbon footprint.:walking:
 
 This project will need the user's information on:
 + monthly electric consumption bill
@@ -17,7 +17,7 @@ After obtaining such information, the program will display the total carbon foot
 
 ## Objectives
 
-Members:
+### Members:
 - Aguilar, Rose Ann
 - Arenas, Aldrich Amiel
 - Montoya, Ram Greggor
