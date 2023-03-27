@@ -1,6 +1,6 @@
 # cs1202group_project
 
-h1 Topic: ____
+# Topic: ____
 
 Members:
 - Agular, Rose Ann
