@@ -8,9 +8,10 @@ The energy derived from natural resources that are replenished more quickly than
 OmniEnergy will solely focus on the renewable energy source: solar energy. Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
 
 ## :mag_right: Objectives
-(Bakit natin ittrack?)
-+ma track yung generated renewable energy before installing solar panel
-+ma track yung generated renewable energy after installing solar panel
++ To determine the user's energy consumption
++ To calculate the amount of energy used after solar installation.
++ To recommend a more effective strategy to cut back on energy use.
+
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy) 
 Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis.
