@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to track the energy generated and consumption to ensure its performance, and this is OmniEnergy's task. 
 
 ## :mag_right: Objectives
-For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
 The objectives include the following: 
 + To determine the user's energy consumption :electric_plug:
