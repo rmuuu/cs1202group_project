@@ -43,6 +43,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun, wind, water, waste, and heat from the Earth are all abundant sources of renewable energy that replenish themselves naturally with little to no air pollution or greenhouse gases being released into the atmosphere. Hence, these sources must be utilized in order to avoid the consequences of climate-damaging greenhouse gases and health-endangering particles. :cloud_with_lightning_and_rain::stethoscope:
 
+---
 ### :busts_in_silhouette: Members:
 - Aguilar, Rose Ann C. 
 - Arenas, Aldrich Amiel A. 
