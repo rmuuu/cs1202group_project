@@ -8,9 +8,9 @@ The energy derived from natural resources that are replenished more quickly than
 OmniEnergy will solely focus on the renewable energy source: solar energy. Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
 
 ## :mag_right: Objectives
-+ To determine the user's energy consumption
-+ To calculate the amount of energy used after solar installation.
-+ To recommend a more effective strategy to cut back on energy use.
++ To determine the user's energy consumption :electric_plug:
++ To calculate the amount of energy used after solar installation. :zap:
++ To recommend a more effective strategy to cut back on energy use. :house_with_garden:
 
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy) 
