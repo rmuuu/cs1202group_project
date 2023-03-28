@@ -1,5 +1,5 @@
 <p align= "center">
-  <img src= "https://user-images.githubusercontent.com/124104881/228203505-3deb5422-0d39-4c9e-bea7-f6fb5e583f18.png" width="15%" height="15%" syle="border-radius:50%; ">
+  <img src= "https://user-images.githubusercontent.com/124104881/228203505-3deb5422-0d39-4c9e-bea7-f6fb5e583f18.png" width="15%" height="15%">
 </p>
 <h1 align= "center"> 
 $${\color{green}OmniEnergy}$$ 
