@@ -14,7 +14,7 @@ OmniEnergy will solely focus on the renewable energy source: solar energy. Solar
 
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy) 
-Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis.
+Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
 
 
 ### Members:
