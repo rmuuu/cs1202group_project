@@ -12,14 +12,14 @@
 ## :mag_right: Objectives
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
-The objectives include the following: 
-+ To determine the user's energy consumption :electric_plug:
-+ To calculate the amount of energy used after solar installation. :zap:
-+ To recommend a more effective strategy to cut back on energy use. :house_with_garden:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ To determine the user's energy consumption :electric_plug:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ To calculate the amount of energy used after solar installation. :zap:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ To recommend a more effective strategy to cut back on energy use. :house_with_garden:
 
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy) 
-Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
 
 
 ### Members:
