@@ -12,7 +12,8 @@ Renewable Manager
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are forms of generating renewable energy, however, this renewable manager will focus only on distributed energy resources (DERs), specifically, solar panels (Solar energy). Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to track the energy generated and consumption to ensure its performance, and this is OmniEnergy's task. 
-  </p>
+ </p>
+ 
 ## :mag_right: Objectives
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
