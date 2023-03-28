@@ -20,7 +20,8 @@ $${\color{orange}Renewable \space Manager}$$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
-+ To determine the user's energy consumption :electric_plug:
++ To determine the user's energy consumption. :electric_plug:
++ To determine the generated renewable energy after solar installation. 
 + To calculate the amount of energy used after solar installation. :zap:
 + To recommend more effective strategies to cut back on non-renewable energy use. :house_with_garden:
 
