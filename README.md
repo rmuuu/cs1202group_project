@@ -46,7 +46,7 @@ $${\color{orange}Renewable \space Manager}$$
 ### :busts_in_silhouette: Members:
 - Aguilar, Rose Ann C. 
 - Arenas, Aldrich Amiel A. 
-- Montoya, Ram Greggor B. 
+- Montoya, Ram Greggor D. 
 - Recto, Nerine Rosette M. 
 ---
 
