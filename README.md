@@ -27,6 +27,10 @@ $${\color{orange}Renewable \space Manager}$$
 
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy)
+<p align="center" >
+<img src= "https://exploreasean.ch/wp-content/uploads/2022/10/7_SDG_MakeEveryDayCount_Gifs_GDU1-3.gif" width="50%" height="50%">
+</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
