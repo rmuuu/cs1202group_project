@@ -1,5 +1,7 @@
 <h1 align= "center"> 
+<code style="color : green">
 OmniEnergy 
+</code>
 <h1>
 <h2 align= "center">
 Renewable Manager
