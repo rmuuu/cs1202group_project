@@ -35,7 +35,7 @@ Renewable Manager
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The science is clear and concise: emissions must be cut in half by 2030 and reach zero by 2050 in order to prevent the worst effects of climate change. In order to achieve this, we must stop relying on fossil fuels and start putting money into reliable, clean, accessible, and cost-effective alternative energy sources. :partly_sunny:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun, wind, water, waste, and heat from the Earth are all abundant sources of renewable energy that replenish themselves naturally with little to no air pollution or greenhouse gases being released into the atmosphere. :dash: :droplet:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun, wind, water, waste, and heat from the Earth are all abundant sources of renewable energy that replenish themselves naturally with little to no air pollution or greenhouse gases being released into the atmosphere. Hence, these sources must be utilized in order to avoid the consequences of climate-damaging greenhouse gases and health-endangering particles. :cloud_with_lightning_and_rain::stethoscope:
 
 ### :busts_in_silhouette: Members:
 - Aguilar, Rose Ann
