@@ -21,7 +21,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
 + To determine the user's energy consumption. :electric_plug:
-+ To determine the generated renewable energy after solar installation. 
++ To calculate the generated solar energy after solar installation. :sunny:
 + To calculate the amount of energy used after solar installation. :zap:
 + To recommend more effective strategies to cut back on non-renewable energy use. :house_with_garden:
 
