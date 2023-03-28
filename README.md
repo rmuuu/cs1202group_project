@@ -10,9 +10,9 @@ There are forms of generating renewable energy, however, this renewable manager 
 Furthermore, when switching to renewable energy, it is a must to track the energy generated and consumption to ensure its performance, and this is OmniEnergy's task. 
 
 ## :mag_right: Objectives
-For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source.
+For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
-Its objectives are: 
+The objectives include the following: 
 + To determine the user's energy consumption :electric_plug:
 + To calculate the amount of energy used after solar installation. :zap:
 + To recommend a more effective strategy to cut back on energy use. :house_with_garden:
