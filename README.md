@@ -6,13 +6,12 @@ Renewable Manager
 <h2>
 
 ## :bulb: Description
-<div class=text-justify>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this clean energy, also called renewables, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are forms of generating renewable energy, however, this renewable manager will focus only on distributed energy resources (DERs), specifically, solar panels (Solar energy). Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to track the energy generated and consumption to ensure its performance, and this is OmniEnergy's task. 
-</div>
+
  
 ## :mag_right: Objectives
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
