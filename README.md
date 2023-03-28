@@ -23,7 +23,8 @@ Renewable Manager
 + To recommend a more effective strategy to cut back on energy use. :house_with_garden:
 
 
-## :four_leaf_clover: SDG (Affordable and Clean Energy) 
+## :four_leaf_clover: SDG (Affordable and Clean Energy)
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key to addressing the climate crisis is energy. When fossil fuels are used to produce energy, including electricity and heat, a significant portion of the greenhouse gases that cover the Planet and trap solar energy are produced.
@@ -33,7 +34,7 @@ Renewable Manager
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The science is clear and concise: emissions must be cut in half by 2030 and reach zero by 2050 in order to prevent the worst effects of climate change. In order to achieve this, we must stop relying on fossil fuels and start putting money into reliable, clean, accessible, and cost-effective alternative energy sources. :partly_sunny:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun, wind, water, waste, and heat from the Earth are all abundant sources of renewable energy that replenish themselves naturally with little to no air pollution or greenhouse gases being released into the atmosphere. :dash: :droplet:
-
+ </p>
 
 
 ### Members:
