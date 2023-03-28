@@ -22,7 +22,7 @@ $${\color{orange}Renewable \space Manager}$$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
 + To determine the user's energy consumption :electric_plug:
 + To calculate the amount of energy used after solar installation. :zap:
-+ To recommend more effective strategies to cut back on energy use. :house_with_garden:
++ To recommend more effective strategies to cut back on non-renewable energy use. :house_with_garden:
 
 
 ## :four_leaf_clover: SDG (Affordable and Clean Energy)
