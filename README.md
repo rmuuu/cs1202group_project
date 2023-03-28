@@ -6,7 +6,7 @@
 
 ## :mag_right: Objectives
 
-## :four_leaf_clover: SDG (Affordable and Clean Energy ) 
+## :four_leaf_clover: SDG (Affordable and Clean Energy) (Climate Action)
 
 ### Members:
 - Aguilar, Rose Ann
