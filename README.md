@@ -1,5 +1,5 @@
 <h1 align= "center"> 
-OmniEnergy ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
+OmniEnergy 
 <h1>
 <h2 align= "center">
 Renewable Manager
