@@ -3,7 +3,8 @@
 # Topic: Renewable Manager : Title: OmniEnergy
     
 ## :bulb: Description
-![image](https://user-images.githubusercontent.com/123806801/228141612-9096dd1f-0f21-448f-8016-9bf06182a7fa.png)
+![image](https://user-images.githubusercontent.com/123806801/228141784-03e576c7-4366-4e65-9819-5056852b1bf2.png)
+
 
 
 
