@@ -2,7 +2,7 @@
 $${\color{green}OmniEnergy}$$ 
 <h1>
 <h2 align= "center">
-Renewable Manager
+$${\color{orange}Renewable Manager}$$
 <h2>
 
 ## :bulb: Description
