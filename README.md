@@ -18,7 +18,7 @@ $${\color{orange}Renewable \space Manager}$$
 * [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-members)
 
 ---
-## :bulb: Description
+## :bulb: ${\color{lightgreen}Description}$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this clean energy, also called renewables, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are forms of generating renewable energy, however, this renewable manager will focus only on distributed energy resources (DERs), specifically, solar panels (Solar energy). Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
@@ -26,7 +26,7 @@ $${\color{orange}Renewable \space Manager}$$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to track and monitor the energy generated and consumption, and to check the user's contributed amount of fossil fuel, and this is OmniEnergy's task. 
 
  
-## :mag_right: Objectives
+## :mag_right: ${\color{lightgreen}Objectives}$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
@@ -36,7 +36,7 @@ $${\color{orange}Renewable \space Manager}$$
 + To recommend more effective strategies to cut back on non-renewable energy use. :house_with_garden:
 
 
-## :four_leaf_clover: SDG (Affordable and Clean Energy)
+## :four_leaf_clover: ${\color{lightgreen}SDG (Affordable and Clean Energy)}$
 <p align="center" >
 <img src= "https://exploreasean.ch/wp-content/uploads/2022/10/7_SDG_MakeEveryDayCount_Gifs_GDU1-3.gif" width="50%" height="50%">
 </p>
