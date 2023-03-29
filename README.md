@@ -13,9 +13,9 @@ $${\color{orange}Renewable \space Manager}$$
 
 # :book:  ${\color{pink}Table \space of \space Contents}$
 * [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-colorgreendescription)
-* [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-objectives)
-* [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-sdg-affordable-and-clean-energy)
-* [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-members)
+* [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-colorgreenobjectives)
+* [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-colorgreensdg-space-affordable-space-and-space-clean-space-energy)
+* [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-colororangemembers)
 
 ---
 ## :bulb: ${\color{green}Description}$
