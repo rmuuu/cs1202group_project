@@ -12,7 +12,7 @@ $${\color{orange}Renewable \space Manager}$$
 </h2>
 
 # Table of Contents
-* [Description](##Description)
+* [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-description)
 * [Members](###Members)
 
 ## :bulb: Description
