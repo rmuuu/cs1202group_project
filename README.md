@@ -11,7 +11,7 @@ $${\color{orange}Renewable \space Manager}$$
 <img src= "https://camo.githubusercontent.com/07d3549c312ea210aed258be6b37b869b2ca69855bf3fb6e822cfe7f707c3e56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d4642373530423f6c6f676f3d676974687562266c6f676f436f6c6f723d313831373137267374796c653d666f722d7468652d6261646765266c6f676f57696474683d3330" width="9.9%" height="9%">
 </h2>
 
-# Table of Contents
+# :book: Table of Contents
 * [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-description)
 * [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-objectives)
 * [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-sdg-affordable-and-clean-energy)
