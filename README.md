@@ -13,7 +13,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 # Table of Contents
 * [Description](##Description)
-* [Description](##Members)
+* [Members](###Members)
 
 ## :bulb: Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this clean energy, also called renewables, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
