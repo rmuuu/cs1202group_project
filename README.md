@@ -11,7 +11,7 @@ $${\color{orange}Renewable \space Manager}$$
 <img src= "https://camo.githubusercontent.com/07d3549c312ea210aed258be6b37b869b2ca69855bf3fb6e822cfe7f707c3e56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d4642373530423f6c6f676f3d676974687562266c6f676f436f6c6f723d313831373137267374796c653d666f722d7468652d6261646765266c6f676f57696474683d3330" width="9.9%" height="9%">
 </h2>
 
-# :book: Table of Contents
+# :book:  ${\color{pink}Table \space of \space Contents}$
 * [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-description)
 * [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-objectives)
 * [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-sdg-affordable-and-clean-energy)
@@ -36,7 +36,7 @@ $${\color{orange}Renewable \space Manager}$$
 + To recommend more effective strategies to cut back on non-renewable energy use. :house_with_garden:
 
 
-## :four_leaf_clover: ${\color{lightgreen}SDG (Affordable and Clean Energy)}$
+## :four_leaf_clover: ${\color{lightgreen}SDG \space (Affordable \space and \space Clean \space Energy)}$
 <p align="center" >
 <img src= "https://exploreasean.ch/wp-content/uploads/2022/10/7_SDG_MakeEveryDayCount_Gifs_GDU1-3.gif" width="50%" height="50%">
 </p>
@@ -54,7 +54,7 @@ $${\color{orange}Renewable \space Manager}$$
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The sun, wind, water, waste, and heat from the Earth are all abundant sources of renewable energy that replenish themselves naturally with little to no air pollution or greenhouse gases being released into the atmosphere. Hence, these sources must be utilized in order to avoid the consequences of climate-damaging greenhouse gases and health-endangering particles. :cloud_with_lightning_and_rain::stethoscope:
 
 ---
-### :busts_in_silhouette: Members:
+### :busts_in_silhouette: ${\color{yellow}Members:}$
 - Aguilar, Rose Ann C. 
 - Arenas, Aldrich Amiel A. 
 - Montoya, Ram Greggor D. 
