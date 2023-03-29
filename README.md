@@ -12,7 +12,7 @@ $${\color{orange}Renewable \space Manager}$$
 </h2>
 
 # :book:  ${\color{pink}Table \space of \space Contents}$
-* [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-description)
+* [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-colorgreendescription)
 * [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-objectives)
 * [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-sdg-affordable-and-clean-energy)
 * [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-members)
