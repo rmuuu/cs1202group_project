@@ -19,11 +19,11 @@ $${\color{orange}Renewable \space Manager}$$
 
 ---
 ## :bulb: ${\color{green}Description}$
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this clean energy, also called renewables, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this **clean energy**, also called **renewables**, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are forms of generating renewable energy, however, this renewable manager will focus only on distributed energy resources (DERs), specifically, solar panels (Solar energy). Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are forms of generating renewable energy, however, this renewable manager will focus only on distributed energy resources (DERs), specifically, **solar panels (Solar energy)**. Solar energy systems don’t produce air pollutants or greenhouse gases, they generate power using mirrors to concentrate sunlight across solar cells. Additionally, they are affordable and often the cheapest form of electricity. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to track and monitor the energy generated and consumption, and to check the user's contributed amount of fossil fuel, and this is OmniEnergy's task. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, when switching to renewable energy, it is a must to **track** and **monitor the energy generated and consumption**, and to **check the user's contributed amount of fossil fuel**, and this is **OmniEnergy's task.** 
 
  
 ## :mag_right: ${\color{green}Objectives}$
