@@ -13,7 +13,9 @@ $${\color{orange}Renewable \space Manager}$$
 
 # Table of Contents
 * [Description](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#bulb-description)
-* [Members](###Members)
+* [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-objectives)
+* [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-sdg-affordable-and-clean-energy)
+* [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-members)
 
 ## :bulb: Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The energy derived from natural resources that are replenished more quickly than they are used up is referred to as renewable energy. Sources of this clean energy, also called renewables, are known to boost the displacement of “dirty” fossil fuels in the electricity industry, bringing the benefit of fewer emissions of carbon and other types of pollution. 
