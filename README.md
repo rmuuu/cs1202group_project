@@ -38,7 +38,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 ## :four_leaf_clover: ${\color{green}SDG \space (Affordable \space and \space Clean \space Energy)}$
 <p align="center" >
-<img src= "https://exploreasean.ch/wp-content/uploads/2022/10/7_SDG_MakeEveryDayCount_Gifs_GDU1-3.gif" width="50%" height="50%">
+<img src= "https://cellulogyx.com/wp-content/uploads/2022/02/7_SDG_MakeEveryDayCount_Gifs_GDU.gif" width="50%" height="50%">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.
