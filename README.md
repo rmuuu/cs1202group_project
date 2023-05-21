@@ -38,7 +38,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 ## :four_leaf_clover: ${\color{green}SDG \space (Affordable \space and \space Clean \space Energy)}$
 <p align="center" >
-  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mci.edu%2Fen%2Funiversity%2Fthe-mci%2Fresponsibility%2Fresponsiblemci-stories&psig=AOvVaw3nE6U7yUP19SzagwOZdU7D&ust=1684742980353000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDI7-j6hf8CFQAAAAAdAAAAABAE" width="50%" height="50%">
+  <iframe src="https://giphy.com/embed/FuL2jEE2mjRUk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-FuL2jEE2mjRUk">via GIPHYwidth="50%" height="50%"></a></p> 
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.
