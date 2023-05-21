@@ -38,7 +38,7 @@ $${\color{orange}Renewable \space Manager}$$
 
 ## :four_leaf_clover: ${\color{green}SDG \space (Affordable \space and \space Clean \space Energy)}$
 <p align="center" >
-<img src= "![7_SDG_MakeEveryDayCount_Gifs_GDU](https://github.com/rmuuu/cs1202group_project/assets/123806801/c33aa472-a073-4f18-9e9e-56d104f7f874)" width="50%" height="50%">
+<img src="https://github.com/rmuuu/cs1202group_project/assets/123806801/34e4adb0-0161-4a0e-a79a-9d1892ff6f09" width="50%" height="50%">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.
