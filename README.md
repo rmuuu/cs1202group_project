@@ -27,7 +27,7 @@ $${\color{orange}Renewable \space Manager}$$
 
  
 ## :mag_right: ${\color{green}Objectives}$
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, OmniEnergy advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a clean energy future, **OmniEnergy** advocates the use of renewables and other clean energy source. :fallen_leaf: :sun_with_face:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objectives include the following: 
 + To determine the user's energy consumption. :electric_plug:
