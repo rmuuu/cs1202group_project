@@ -41,7 +41,7 @@ $${\color{orange}Renewable \space Manager}$$
 <img src="https://github.com/rmuuu/cs1202group_project/assets/123806801/34e4adb0-0161-4a0e-a79a-9d1892ff6f09" width="50%" height="50%">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**OmniEnergy adresses the 7<sup>th</sup> Sustainable Development Goal: Affordable and Clean Energy.**
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
 
