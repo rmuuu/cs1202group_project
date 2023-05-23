@@ -45,7 +45,7 @@ $${\color{orange}Renewable \space Manager}$$
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The transition from fossil fuels to generation of renewable energy is encouraged during the present time as it is the key to address the climate crisis. :key: :deciduous_tree: :leaves:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the ways to solve the climate crisis through is the use of renewable energy. When fossil fuels are used to produce energy, including electricity and heat, a significant portion of the greenhouse gases that cover the Planet and trap solar energy are produced.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the ways to **solve the climate crisis** through is the **use of renewable energy.** When fossil fuels are used to produce energy, including electricity and heat, a significant portion of the greenhouse gases that cover the Planet and trap solar energy are produced.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With over 75% of all greenhouse gas emissions and almost 90% of all carbon dioxide emissions coming from fossil fuels like coal, oil, and gas, these fuels are by far the biggest cause of climate change in the world.:earth_asia:
 
