@@ -92,17 +92,17 @@ def get_duration_days_input(prompt, duration_type):
             print("Invalid input. Please enter a valid duration days.")
 
 def display_energy_conservation_tips():
-    print("===========================================================================")
+    print("\n===========================================================================")
     print("Here are some ways to conserve energy and reduce your electricity consumption:")
-    print("~ Use LED light bulbs instead of traditional incandescent bulbs.")
-    print("~ Turn off lights and electronics when not in use.")
-    print("~ Set your thermostat a few degrees lower in the winter and a few degrees higher in the summer.")
-    print("~ Wash clothes in cold water instead of hot water.")
-    print("~ Use a programmable thermostat to automatically adjust the temperature when you're away from home.")
-    print("~ Install weather stripping around doors and windows to prevent drafts.")
-    print("~ Unplug chargers and appliances when they're not in use.")
-    print("~ Plant trees or install shading devices to block the sun's rays from hitting your home.")
-    print("~ Seal air leaks in your home with caulking or weather stripping.")
+    print(" ~ Use LED light bulbs instead of traditional incandescent bulbs.")
+    print(" ~ Turn off lights and electronics when not in use.")
+    print(" ~ Set your thermostat a few degrees lower in the winter and a few degrees higher in the summer.")
+    print(" ~ Wash clothes in cold water instead of hot water.")
+    print(" ~ Use a programmable thermostat to automatically adjust the temperature when you're away from home.")
+    print(" ~ Install weather stripping around doors and windows to prevent drafts.")
+    print(" ~ Unplug chargers and appliances when they're not in use.")
+    print(" ~ Plant trees or install shading devices to block the sun's rays from hitting your home.")
+    print(" ~ Seal air leaks in your home with caulking or weather stripping.")
 
 def header():
     print("===========================================================================")
