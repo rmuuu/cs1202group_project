@@ -16,6 +16,7 @@ $${\color{orange}Renewable \space Manager}$$
 * [Objectives](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#mag_right-colorgreenobjectives)
 * [SDG (Affordable and Clean Energy)](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#four_leaf_clover-colorgreensdg-space-affordable-space-and-space-clean-space-energy)
 * [Members](https://github.com/rmuuu/cs1202group_project/blob/main/README.md#busts_in_silhouette-colororangemembers)
+* [Video Presentaion](https://github.com/rmuuu/cs1202group_project#clappervideo-presentation)
 
 ---
 ## :bulb: ${\color{green}Description}$
