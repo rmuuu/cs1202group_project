@@ -62,4 +62,4 @@ $${\color{orange}Renewable \space Manager}$$
 - Recto, Nerine Rosette M. 
 ---
 
-# :clapper:[Video Presentation](https://youtu.be/WJtG9mskczQ)
+# :clapper: [Video Presentation](https://youtu.be/WJtG9mskczQ)
