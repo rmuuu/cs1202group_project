@@ -138,7 +138,7 @@ def main():
     print("\t- To calculate the generated solar energy used after solar installation.")
     print("\t- To calculate the amount of energy used after solar installation.")
     print("\t- To recommend more effective strategies to cut back on non-renewable energy use.")
-    print("\nAuthors:\n\tAguilar, Rose Anne C.\n\tArenas, Aldrich Amiel A.")
+    print("\nAuthors:\n\tAguilar, Rose Ann C.\n\tArenas, Aldrich Amiel A.")
     print("\tMontoya, Ram Greggor D.\n\tRecto, Nerine Rosette M.")
     
     is_logged_in = False
