@@ -93,7 +93,7 @@ def get_duration_days_input(prompt, duration_type):
 
 def display_energy_conservation_tips():
     print("\n===========================================================================")
-    print("Here are some ways to conserve energy and reduce your electricity consumption:")
+    print(" Here are some ways to conserve energy and reduce your electricity consumption:")
     print(" ~ Use LED light bulbs instead of traditional incandescent bulbs.")
     print(" ~ Turn off lights and electronics when not in use.")
     print(" ~ Set your thermostat a few degrees lower in the winter and a few degrees higher in the summer.")
@@ -133,12 +133,12 @@ def login():
 def main():
     os.system('cls' if os.name == 'nt' else 'clear')  # Clear screen
     header()
-    print("\nAbout\n\nObjectives:")
+    print("\n About\n\nObjectives:")
     print("\t- To determine the user's energy consumption.")
     print("\t- To calculate the generated solar energy used after solar installation.")
     print("\t- To calculate the amount of energy used after solar installation.")
     print("\t- To recommend more effective strategies to cut back on non-renewable energy use.")
-    print("\nAuthors:\n\tAguilar, Rose Ann C.\n\tArenas, Aldrich Amiel A.")
+    print("\n Authors:\n\tAguilar, Rose Ann C.\n\tArenas, Aldrich Amiel A.")
     print("\tMontoya, Ram Greggor D.\n\tRecto, Nerine Rosette M.")
     
     is_logged_in = False
@@ -206,17 +206,17 @@ def main():
                 
                 os.system('cls' if os.name == 'nt' else 'clear')  # Clear screen
                 header()
-                print("\nThe house consumed {:.2f} kWh of electricity in {} days before installing solar panels ".format(consumption_before, duration))
-                print("The installed solar panels generated {:.2f} kWh of solar energy output in {} days.". format(base_solarenergy, duration))
-                print("The house consumed {:.2f} kWh of electricity in {} days after installing solar panels.".format(consumption_after, duration))
-                print("The solar panels saved {:.2f} kWh of electricity in {} days.".format(savings, duration))
+                print("\n The house consumed {:.2f} kWh of electricity in {} days before installing solar panels ".format(consumption_before, duration))
+                print(" The installed solar panels generated {:.2f} kWh of solar energy output in {} days.". format(base_solarenergy, duration))
+                print(" The house consumed {:.2f} kWh of electricity in {} days after installing solar panels.".format(consumption_after, duration))
+                print(" The solar panels saved {:.2f} kWh of electricity in {} days.".format(savings, duration))
             
                 history = open('history.txt', 'a') # history text file
                 history.write("\n\nUser {}:\n".format(username))
-                history.write("\n\tThe house consumed {:.2f} kWh of electricity in {} days before installing solar panels ".format(consumption_before, duration))
-                history.write("\n\tThe installed solar panels generated {:.2f} kWh of solar energy output in {} days.". format(base_solarenergy, duration))
-                history.write("\n\tThe house consumed {:.2f} kWh of electricity in {} days after installing solar panels.".format(consumption_after, duration))
-                history.write("\n\tThe solar panels saved {:.2f} kWh of electricity in {} days.".format(savings, duration))
+                history.write("\n\t The house consumed {:.2f} kWh of electricity in {} days before installing solar panels ".format(consumption_before, duration))
+                history.write("\n\t The installed solar panels generated {:.2f} kWh of solar energy output in {} days.". format(base_solarenergy, duration))
+                history.write("\n\t The house consumed {:.2f} kWh of electricity in {} days after installing solar panels.".format(consumption_after, duration))
+                history.write("\n\t The solar panels saved {:.2f} kWh of electricity in {} days.".format(savings, duration))
                 history.close()
 
             else:
